@@ -15,6 +15,7 @@
 		BBF8088C2611C6710073CA1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBF8088A2611C6710073CA1A /* LaunchScreen.storyboard */; };
 		BBF808972611C6710073CA1A /* Count1ShionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF808962611C6710073CA1A /* Count1ShionTests.swift */; };
 		BBF808A22611C6710073CA1A /* Count1ShionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF808A12611C6710073CA1A /* Count1ShionUITests.swift */; };
+		BBF80A2D2611CA6D0073CA1A /* ポワント.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBF80A2C2611CA6D0073CA1A /* ポワント.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BBF8089D2611C6710073CA1A /* Count1ShionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count1ShionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBF808A12611C6710073CA1A /* Count1ShionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count1ShionUITests.swift; sourceTree = "<group>"; };
 		BBF808A32611C6710073CA1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBF80A2C2611CA6D0073CA1A /* ポワント.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "ポワント.jpg"; path = "../../../../Downloads/ポワント.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		BBF8087E2611C66F0073CA1A /* Count1Shion */ = {
 			isa = PBXGroup;
 			children = (
+				BBF80A2C2611CA6D0073CA1A /* ポワント.jpg */,
 				BBF8087F2611C66F0073CA1A /* AppDelegate.swift */,
 				BBF808812611C66F0073CA1A /* SceneDelegate.swift */,
 				BBF808832611C66F0073CA1A /* ViewController.swift */,
@@ -234,6 +237,7 @@
 				BBF8088C2611C6710073CA1A /* LaunchScreen.storyboard in Resources */,
 				BBF808892611C6710073CA1A /* Assets.xcassets in Resources */,
 				BBF808872611C66F0073CA1A /* Main.storyboard in Resources */,
+				BBF80A2D2611CA6D0073CA1A /* ポワント.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
